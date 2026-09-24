@@ -8,7 +8,6 @@ This hack adds a full **LEVEL SELECT** option to the title screen while preservi
 
 It is designed to make *Wario Blast* much easier to pick up and play without changing the normal game when you choose START or use a stock password.
 
-![Title menu](screenshots/01-title-menu.png)
 
 ## Features
 
@@ -22,7 +21,6 @@ It is designed to make *Wario Blast* much easier to pick up and play without cha
 
 Custom POWER choices act as a **starting floor**, not a permanent cap. If normal progression later awards a Special Item beyond the tier you selected, the game takes over normally.
 
-![Level Select](screenshots/03-level-select-all.png)
 
 ## How to use
 
@@ -94,12 +92,6 @@ Do not apply both patches, and do not patch an already modified ROM.
 | MD5 | `CEC1CCDB08544D523DCF3AEFAF8D7CEC` |
 | SHA-1 | `7F64DCBCE4C39EE0866120BC2E6CE13F6071FF3D` |
 | SHA-256 | `6677A57DEA30284AD4AAE7A91E84BB798263BCFE78FFAD50BE6C3DA24EA7A3F9` |
-
-## Screenshots
-
-![Level Select - Normal](screenshots/02-level-select-normal.png)
-![Round 6 intro](screenshots/04-round-6-intro.png)
-![Gameplay](screenshots/05-round-6-gameplay.png)
 
 ## Credits
 
