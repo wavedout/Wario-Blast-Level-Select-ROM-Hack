@@ -43,6 +43,12 @@ MD5: `14FE7234EE4BCB14ADF20C743F084A35`
 
 SHA-1: `279FB0223E362DB553B739B1B8F9C18B81D92413`
 
+## Screenshots
+
+| Title menu | All-item settings | Selected round | Gameplay |
+| --- | --- | --- | --- |
+| ![Title menu with Level Select](screenshots/01-title-menu.png) | ![Level Select with all special items](screenshots/02-level-select-all.png) | ![Round 6 introduction](screenshots/03-round-6-intro.png) | ![Round 6 bomb explosion](screenshots/04-round-6-gameplay-bomb.png) |
+
 ## Download
 
 See the **Releases** section for the packaged release.
